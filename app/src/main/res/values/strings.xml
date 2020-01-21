@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lec03Demo</string>
+    <string name="Ticket">Ticket Vault</string>
+    <string name="Hint">Number of Tickets</string>
+    <string name="Find">Find the cost</string>
+</resources>
